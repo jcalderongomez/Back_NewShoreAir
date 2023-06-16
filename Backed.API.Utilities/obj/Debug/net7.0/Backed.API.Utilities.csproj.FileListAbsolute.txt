@@ -1,0 +1,12 @@
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Utilities\bin\Debug\net7.0\Backed.API.Utilities.deps.json
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Utilities\bin\Debug\net7.0\Backed.API.Utilities.dll
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Utilities\bin\Debug\net7.0\Backed.API.Utilities.pdb
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Utilities\obj\Debug\net7.0\Backed.API.Utilities.csproj.AssemblyReference.cache
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Utilities\obj\Debug\net7.0\Backed.API.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Utilities\obj\Debug\net7.0\Backed.API.Utilities.AssemblyInfoInputs.cache
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Utilities\obj\Debug\net7.0\Backed.API.Utilities.AssemblyInfo.cs
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Utilities\obj\Debug\net7.0\Backed.API.Utilities.csproj.CoreCompileInputs.cache
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Utilities\obj\Debug\net7.0\Backed.API.Utilities.dll
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Utilities\obj\Debug\net7.0\refint\Backed.API.Utilities.dll
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Utilities\obj\Debug\net7.0\Backed.API.Utilities.pdb
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Utilities\obj\Debug\net7.0\ref\Backed.API.Utilities.dll

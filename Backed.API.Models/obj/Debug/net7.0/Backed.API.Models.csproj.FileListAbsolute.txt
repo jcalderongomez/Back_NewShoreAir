@@ -1,0 +1,15 @@
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Models\bin\Debug\net7.0\Backed.API.Models.deps.json
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Models\bin\Debug\net7.0\Backed.API.Models.dll
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Models\bin\Debug\net7.0\Backed.API.Models.pdb
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Models\bin\Debug\net7.0\Backed.API.Utilities.dll
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Models\bin\Debug\net7.0\Backed.API.Utilities.pdb
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Models\obj\Debug\net7.0\Backed.API.Models.csproj.AssemblyReference.cache
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Models\obj\Debug\net7.0\Backed.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Models\obj\Debug\net7.0\Backed.API.Models.AssemblyInfoInputs.cache
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Models\obj\Debug\net7.0\Backed.API.Models.AssemblyInfo.cs
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Models\obj\Debug\net7.0\Backed.API.Models.csproj.CoreCompileInputs.cache
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Models\obj\Debug\net7.0\Backed.API.Models.csproj.CopyComplete
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Models\obj\Debug\net7.0\Backed.API.Models.dll
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Models\obj\Debug\net7.0\refint\Backed.API.Models.dll
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Models\obj\Debug\net7.0\Backed.API.Models.pdb
+D:\Desarrollos UCaldas\NewShoreAir\Backend\Backed.API.Models\obj\Debug\net7.0\ref\Backed.API.Models.dll

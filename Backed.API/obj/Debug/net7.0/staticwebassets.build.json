@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NQBmznTIYUThnfqsZ1kWsOwTlUgpu8CFle7XYEEBCjU=",
+  "Source": "Backed.API",
+  "BasePath": "_content/Backed.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
